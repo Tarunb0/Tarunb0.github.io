@@ -1,4 +1,4 @@
-Personal Portfolio and Blog landing page
+Personnal portfolio and blog landing page
 
 ---
 
