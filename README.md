@@ -1,7 +1,8 @@
-Personnal portfolio and blog landing page
+Personal Portfolio and Blog landing page
 
 ---
 
-This is my personal portfolio and blog landing page. It consolidates all my work and content in one place, providing a cohesive online presence.
+This is my [Personal Portfolio and Blog landing page](http://tarunboya.xyz/). It consolidates all my work and content in one place, providing a cohesive online presence.
 
 ---
+
